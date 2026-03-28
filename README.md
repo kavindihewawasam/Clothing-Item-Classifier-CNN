@@ -1,4 +1,4 @@
-````markdown
+
 # Clothing Item Classifier using CNN
 
 ## Project Overview
