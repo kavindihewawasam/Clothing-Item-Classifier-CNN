@@ -45,7 +45,6 @@ This project implements a **Convolutional Neural Network (CNN)** to classify clo
    git clone <your-repo-url>
    cd Clothing-Item-Classifier-CNN
    ```
-````
 
 2. Create a virtual environment:
 
@@ -54,8 +53,15 @@ This project implements a **Convolutional Neural Network (CNN)** to classify clo
    ```
 
 3. Activate the virtual environment:
-   - **Windows:** `.venv\Scripts\activate`
-   - **Linux/Mac:** `source .venv/bin/activate`
+
+   - **Windows:** 
+     ```bash
+     .venv\Scripts\activate
+     ```
+   - **Linux/Mac:** 
+     ```bash
+     source .venv/bin/activate
+     ```
 
 4. Install dependencies:
 
@@ -81,6 +87,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify clo
 ---
 
 ## File Structure
+
 
 ```
 Clothing-Item-Classifier-CNN/
